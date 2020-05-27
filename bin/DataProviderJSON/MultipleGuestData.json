@@ -1,0 +1,135 @@
+
+
+{
+"BookingForm":
+
+	[
+	
+	 {
+		"Prefix": "abc",
+		"Companyname": "ABC INDIA PVT. LTD.(AIPL)",
+		"ServingCity": "PUNE",
+		"BookingMode": "Email",
+		"Year": "2020",
+		"Month": "Jan",
+		"Day": "25",
+		"No.ofGuests": "2",
+		"BookingGivenBy": "Ashish" ,
+		"BookingByContactNo": "7787878888",
+		"BookingByEmailId": "ashish@kairee.in",
+		"CompanyRefNo": "9787665546",
+		"GuestDetails":[
+		
+		                 {
+		                 "GuestPrefix":"Amey",
+		                  "GuestName": "amey 7879787896",
+		                  "Mob": "9098806565",
+		                  "Email": "amey@kairee.in",
+		                  "Time": "04:00PM",
+		                  "Address1":"Airport",
+		                  "Address2":"Residence",
+		                  "PickupLocation":"Pune Airport",
+		                  "DropLocation": "Karve Nagar",
+		                  "FlightNo": "AIR-305",
+		                  "VIP": "Yes",
+		                  "Lady": "No"
+		                  },
+		                  {
+		                  "GuestPrefix":"Akash",
+		                   "GuestName": "AKASH 9889998744",
+		                   "Mob": "8898986555",
+		                  "Email": "akash@kairee.in",
+		                   "Time": "07:00PM",
+		                   "Address1":"Hotel",
+		                   "Address2":"Office",
+		                   "PickupLocation":"Blue Diamond",
+		                   "DropLocation": "Kairee Office",
+		                   "VIP": "Yes",
+		                   "Lady": "No"
+		                    }
+		],
+		
+		"PaymentType": "rdoCash",
+		"Security": "Yes",
+		"VehicleType": "SEDAN",
+		"PackageFor": "LOCAL",
+		"PackageName": "8HR80KM",
+		"PaymentMode": "Cash",
+		"RadioSelection": "Vendor",
+		"NewVehicle": "Yes",
+		"Vehicle_Prefix": "MH-12",
+		"SearchVehicle": "MH-12-EN-3413",
+		"VehicleCategory": "SEDAN",
+		"VehicleState": "MH",
+		"VehicleCityCode":"12",
+		"VehicleSeries":"DK",
+		"VehicleNumber": "9785",
+		"DriverPrefix": "Sa",
+		"DriverName": "SABER / Asif Tashildar",
+		"Mobile": "9292929292",
+		"AllocationType": "Confirm Vehicle"	
+	},
+	
+	{
+	    "Prefix": "abc",
+		"Companyname": "ABC INDIA PVT. LTD.(AIPL)",
+		"ServingCity": "PUNE",
+		"BookingMode": "Email",
+		"Year": "2020",
+		"Month": "Jan",
+		"Day": "26",
+		"No.ofGuests": "2",
+		"BookingGivenBy": "Ashish" ,
+		"BookingByContactNo": "7787878888",
+		"BookingByEmailId": "ashish@kairee.in",
+		"CompanyRefNo": "9787665546",
+		"GuestDetails":[
+		                 {
+		                 "GuestPrefix":"Sakid",
+		                  "GuestName": "Sakid 9763703123",
+		                   "Mob": "9098806565",
+		                  "Email": "ashish@kairee.in",
+		                   "Time": "01:00PM",
+		                   "Address1":"Airport",
+		                   "Address2":"Residence",
+		                   "PickupLocation":"Pune Airport",
+		                   "DropLocation": "Home",
+		                   "FlightNo": "AIR-306",
+		                   "VIP": "Yes",
+		                   "Lady": "No"
+		                   },
+		                   {
+		                   "GuestPrefix":"amey",
+		                    "GuestName": "Amey 9098806565",
+		                    "Mob": "9098806565",
+		                   "Email": "amey@kairee.in",
+		                    "Time": "02:00PM",
+		                    "Address1":"Office",
+		                    "Address2":"Residence",
+		                    "PickupLocation":"Kairee Office",
+		                    "DropLocation": "Viman Nagar",
+		                    "VIP": "Yes",
+		                    "Lady": "No"
+		                    }
+		],
+	    
+		"PaymentType": "rdoCash",
+		"VehicleType": "SEDAN",
+		"PackageFor": "LOCAL",
+		"PackageName": "8HR80KM",
+		"PaymentMode": "Cash",
+		"RadioSelection": "Self ",
+		"NewVehicle": "No",
+		"Vehicle_Prefix": "MH-14",
+		"SearchVehicle": "MH-14-BH-8172",
+		"DriverPrefix": "Sa",
+		"DriverName": "SABER / Asif Tashildar",
+		"Mobile": "9292929292",
+		"AllocationType": "Confirm Vehicle"
+		
+		}
+	
+		
+	]	
+		
+}
